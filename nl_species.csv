@@ -1,0 +1,327 @@
+,dutch_name,latin_name,english_name,species_key,ebird_code
+0,Fuut,Podiceps cristatus,Great Crested Grebe,2482054,grcgre1
+1,Aalscholver,Phalacrocorax carbo,Great Cormorant,2481890,grecor
+2,Blauwe Reiger,Ardea cinerea,Grey Heron,9797180,graher1
+3,Knobbelzwaan,Cygnus olor,Mute Swan,2498343,mutswa
+4,Kolgans,Anser albifrons,Greater White-fronted Goose,2498017,gwfgoo
+5,Grauwe Gans,Anser anser,Greylag Goose,2498036,gragoo
+6,Grote Canadese Gans,Branta canadensis,Greater Canada Goose,5232437,cangoo
+7,Brandgans,Branta leucopsis,Barnacle Goose,5232464,bargoo
+8,Nijlgans,Alopochen aegyptiaca,Egyptian Goose,2498252,egygoo
+9,Bergeend,Tadorna tadorna,Common Shelduck,2498009,comshe
+10,Smient,Mareca penelope,Eurasian Wigeon,8000602,eurwig
+11,Krakeend,Mareca strepera,Gadwall,9362027,gadwal
+12,Wintertaling,Anas crecca,Eurasian Teal,8214667,egwtea1
+13,Wilde Eend,Anas platyrhynchos,Mallard,9761484,mallar3
+14,Kuifeend,Aythya fuligula,Tufted Duck,2498261,tufduc
+15,Sperwer,Accipiter nisus,Eurasian Sparrowhawk,2480637,eurspa1
+16,Buizerd,Buteo buteo,Common Buzzard,2480537,combuz1
+17,Torenvalk,Falco tinnunculus,Common Kestrel,9616058,eurkes
+18,Fazant,Phasianus colchicus,Common Pheasant,9752149,rinphe
+19,Waterhoen,Gallinula chloropus,Common Moorhen,5228199,commoo3
+20,Meerkoet,Fulica atra,Eurasian Coot,2474377,eurcoo
+21,Scholekster,Haematopus ostralegus,Eurasian Oystercatcher,7788295,euroys1
+22,Kievit,Vanellus vanellus,Northern Lapwing,2480242,norlap
+23,Kokmeeuw,Chroicocephalus ridibundus,Black-headed Gull,6065824,bkhgul
+24,Stormmeeuw,Larus canus,Mew Gull,7982160,mewgul
+25,Kleine Mantelmeeuw,Larus fuscus,Lesser Black-backed Gull,2481174,lbbgul
+26,Zilvermeeuw,Larus argentatus,European Herring Gull,2481139,hergul
+27,Stadsduif,Columba livia,Feral Rock Dove,2495414,rocpig
+28,Holenduif,Columba oenas,Stock Dove,2495471,stodov1
+29,Houtduif,Columba palumbus,Common Wood Pigeon,2495455,cowpig1
+30,Turkse Tortel,Streptopelia decaocto,Eurasian Collared Dove,2495696,eucdov
+31,Halsbandparkiet,Psittacula krameri,Rose-ringed Parakeet,2479226,rorpar
+32,Gierzwaluw,Apus apus,Common Swift,5228676,comswi
+33,Grote Bonte Specht,Dendrocopos major,Great Spotted Woodpecker,2477968,grswoo
+34,Veldleeuwerik,Alauda arvensis,Eurasian Skylark,8077224,skylar
+35,Boerenzwaluw,Hirundo rustica,Barn Swallow,9515886,barswa
+36,Huiszwaluw,Delichon urbicum,Common House Martin,2489214,cohmar1
+37,Boompieper,Anthus trivialis,Tree Pipit,2490246,trepip
+38,Graspieper,Anthus pratensis,Meadow Pipit,2490266,meapip1
+39,Gele Kwikstaart,Motacilla flava,Western Yellow Wagtail,9701857,eaywag1
+40,Winterkoning,Troglodytes troglodytes,Eurasian Wren,5231438,winwre4
+41,Heggenmus,Prunella modularis,Dunnock,5231763,dunnoc1
+42,Roodborst,Erithacus rubecula,European Robin,2492462,eurrob1
+43,Merel,Turdus merula,Common Blackbird,2490719,eurbla
+44,Kramsvogel,Turdus pilaris,Fieldfare,2490737,fieldf
+45,Zanglijster,Turdus philomelos,Song Thrush,7901064,sonthr1
+46,Koperwiek,Turdus iliacus,Redwing,2490781,redwin
+47,Bosrietzanger,Acrocephalus palustris,Marsh Warbler,2493136,marwar3
+48,Kleine Karekiet,Acrocephalus scirpaceus,Eurasian Reed Warbler,2493118,eurwar1
+49,Grasmus,Curruca communis,Common Whitethroat,10507373,grewhi1
+50,Tuinfluiter,Sylvia borin,Garden Warbler,2492942,garwar1
+51,Zwartkop,Sylvia atricapilla,Eurasian Blackcap,2492956,blackc1
+52,Tjiftjaf,Phylloscopus collybita,Common Chiffchaff,2493091,comchi1
+53,Fitis,Phylloscopus trochilus,Willow Warbler,2493052,wlwwar
+54,Goudhaan,Regulus regulus,Goldcrest,2484596,goldcr1
+55,Zwarte Mees,Periparus ater,Coal Tit,2487871,coatit2
+56,Pimpelmees,Cyanistes caeruleus,Eurasian Blue Tit,2487879,blutit
+57,Koolmees,Parus major,Great Tit,9705453,gretit1
+58,Boomklever,Sitta europaea,Eurasian Nuthatch,2484916,eurnut2
+59,Boomkruiper,Certhia brachydactyla,Short-toed Treecreeper,7806848,shttre1
+60,Gaai,Garrulus glandarius,Eurasian Jay,5229493,eurjay1
+61,Ekster,Pica pica,Eurasian Magpie,5229490,eurmag1
+62,Kauw,Corvus monedula,Western Jackdaw,6100954,eurjac
+63,Roek,Corvus frugilegus,Rook,2482513,rook1
+64,Zwarte Kraai,Corvus corone,Carrion Crow,9409796,carcro1
+65,Spreeuw,Sturnus vulgaris,Common Starling,9809229,eursta
+66,Huismus,Passer domesticus,House Sparrow,5231190,houspa
+67,Ringmus,Passer montanus,Eurasian Tree Sparrow,5231198,eutspa
+68,Vink,Fringilla coelebs,Common Chaffinch,2494422,comcha
+69,Groenling,Chloris chloris,European Greenfinch,5845582,eurgre1
+70,Putter,Carduelis carduelis,European Goldfinch,2494686,eurgol
+71,Kneu,Linaria cannabina,Common Linnet,8104397,eurlin1
+72,Rietgors,Emberiza schoeniclus,Common Reed Bunting,2491557,reebun
+73,Roodkeelduiker,Gavia stellata,Red-throated Loon,2481958,retloo
+74,Dodaars,Tachybaptus ruficollis,Little Grebe,2482048,litgre1
+75,Roodhalsfuut,Podiceps grisegena,Red-necked Grebe,2482051,rengre
+76,Geoorde Fuut,Podiceps nigricollis,Black-necked Grebe,2482065,eargre
+77,Noordse Stormvogel,Fulmarus glacialis,Northern Fulmar,2481433,norful
+78,Jan-van-gent,Morus bassanus,Northern Gannet,2480964,norgan
+79,Roerdomp,Botaurus stellaris,Eurasian Bittern,2480910,grebit1
+80,Grote Zilverreiger,Ardea alba,Great Egret,9752617,greegr
+81,Purperreiger,Ardea purpurea,Purple Heron,2480934,purher1
+82,Ooievaar,Ciconia ciconia,White Stork,2481912,whisto1
+83,Lepelaar,Platalea leucorodia,Eurasian Spoonbill,2480801,eurspo1
+84,Kleine Zwaan,Cygnus columbianus,Tundra Swan,2498338,tunswa
+85,Wilde Zwaan,Cygnus cygnus,Whooper Swan,2498347,whoswa
+86,Toendrarietgans,Anser serrirostris,Tundra Bean Goose,7340170,tunbeg1
+87,Kleine Rietgans,Anser brachyrhynchus,Pink-footed Goose,2498024,pifgoo
+88,Indische Gans,Anser indicus,Bar-headed Goose,2498035,bahgoo
+89,Kleine Canadese Gans,Branta hutchinsii,Cackling Goose,5232453,cacgoo1
+90,Rotgans,Branta bernicla,Brant Goose,5232446,brant
+91,Muskuseend,Cairina moschata,Muscovy Duck,9751099,musduc
+92,Pijlstaart,Anas acuta,Northern Pintail,2498112,norpin
+93,Zomertaling,Spatula querquedula,Garganey,9274012,gargan
+94,Slobeend,Spatula clypeata,Northern Shoveler,8332393,norsho
+95,Tafeleend,Aythya ferina,Common Pochard,2498255,compoc
+96,Topper,Aythya marila,Greater Scaup,2498265,gresca
+97,Eider,Somateria mollissima,Common Eider,2498352,comeid
+98,Zwarte Zee-eend,Melanitta nigra,Common Scoter,2498247,blksco1
+99,Grote Zee-eend,Melanitta fusca,Velvet Scoter,2498238,whwsco
+100,Brilduiker,Bucephala clangula,Common Goldeneye,2498326,comgol
+101,Nonnetje,Mergellus albellus,Smew,2498285,smew
+102,Middelste Zaagbek,Mergus serrator,Red-breasted Merganser,2498375,rebmer
+103,Grote Zaagbek,Mergus merganser,Common Merganser,9537647,commer
+104,Wespendief,Pernis apivorus,European Honey Buzzard,2480420,euhbuz1
+105,Bruine Kiekendief,Circus aeruginosus,Western Marsh Harrier,2480482,wemhar1
+106,Blauwe Kiekendief,Circus cyaneus,Hen Harrier,2480487,norhar1
+107,Havik,Accipiter gentilis,Northern Goshawk,2480589,norgos
+108,Smelleken,Falco columbarius,Merlin,9813242,merlin
+109,Boomvalk,Falco subbuteo,Eurasian Hobby,2481035,eurhob
+110,Slechtvalk,Falco peregrinus,Peregrine Falcon,2481047,perfal
+111,Patrijs,Perdix perdix,Grey Partridge,2473958,grypar
+112,Waterral,Rallus aquaticus,Water Rail,2474831,watrai1
+113,Kluut,Recurvirostra avosetta,Pied Avocet,2480259,pieavo1
+114,Kleine Plevier,Charadrius dubius,Little Ringed Plover,7937336,lirplo
+115,Bontbekplevier,Charadrius hiaticula,Common Ringed Plover,9566659,corplo
+116,Goudplevier,Pluvialis apricaria,European Golden Plover,2480332,eugplo
+117,Zilverplevier,Pluvialis squatarola,Grey Plover,2480327,bkbplo
+118,Kanoet,Calidris canutus,Red Knot,2481765,redkno
+119,Drieteenstrandloper,Calidris alba,Sanderling,2481748,sander
+120,Kleine Strandloper,Calidris minuta,Little Stint,2481749,litsti
+121,Krombekstrandloper,Calidris ferruginea,Curlew Sandpiper,2481741,cursan
+122,Bonte Strandloper,Calidris alpina,Dunlin,2481759,dunlin
+123,Kemphaan,Calidris pugnax,Ruff,8250742,ruff
+124,Watersnip,Gallinago gallinago,Common Snipe,2481819,comsni
+125,Houtsnip,Scolopax rusticola,Eurasian Woodcock,2481700,eurwoo
+126,Grutto,Limosa limosa,Black-tailed Godwit,2481685,bktgod
+127,Rosse Grutto,Limosa lapponica,Bar-tailed Godwit,2481681,batgod
+128,Regenwulp,Numenius phaeopus,Whimbrel,2481784,whimbr
+129,Wulp,Numenius arquata,Eurasian Curlew,2481792,eurcur
+130,Zwarte Ruiter,Tringa erythropus,Spotted Redshank,2481725,spored
+131,Tureluur,Tringa totanus,Common Redshank,2481714,comred1
+132,Groenpootruiter,Tringa nebularia,Common Greenshank,2481726,comgre
+133,Witgat,Tringa ochropus,Green Sandpiper,2481728,grnsan
+134,Bosruiter,Tringa glareola,Wood Sandpiper,2481713,woosan
+135,Oeverloper,Actitis hypoleucos,Common Sandpiper,2481800,comsan
+136,Steenloper,Arenaria interpres,Ruddy Turnstone,2481776,rudtur
+137,Kleine Jager,Stercorarius parasiticus,Parasitic Jaeger,2481621,parjae
+138,Dwergmeeuw,Hydrocoloeus minutus,Little Gull,6065841,litgul
+139,Pontische Meeuw,Larus cachinnans,Caspian Gull,2481181,casgul2
+140,Grote Mantelmeeuw,Larus marinus,Great Black-backed Gull,2481172,gbbgul
+141,Drieteenmeeuw,Rissa tridactyla,Black-legged Kittiwake,2481205,bklkit
+142,Grote Stern,Thalasseus sandvicensis,Sandwich Tern,2481240,santer1
+143,Visdief,Sterna hirundo,Common Tern,9367409,comter
+144,Noordse Stern,Sterna paradisaea,Arctic Tern,5229230,arcter
+145,Dwergstern,Sternula albifrons,Little Tern,5789279,litter1
+146,Zwarte Stern,Chlidonias niger,Black Tern,2481119,blkter
+147,Zeekoet,Uria aalge,Common Murre,2481342,commur
+148,Zomertortel,Streptopelia turtur,European Turtle Dove,2495708,eutdov
+149,Koekoek,Cuculus canorus,Common Cuckoo,5231918,comcuc
+150,Kerkuil,Tyto alba,Western Barn Owl,2497921,brnowl
+151,Steenuil,Athene noctua,Little Owl,2497266,litowl1
+152,Bosuil,Strix aluco,Tawny Owl,9282206,tawowl1
+153,Ransuil,Asio otus,Long-eared Owl,2497306,loeowl
+154,Velduil,Asio flammeus,Short-eared Owl,2497295,sheowl
+155,IJsvogel,Alcedo atthis,Common Kingfisher,2475532,comkin1
+156,Groene Specht,Picus viridis,European Green Woodpecker,2478523,grnwoo1
+157,Zwarte Specht,Dryocopus martius,Black Woodpecker,2477872,blawoo1
+158,Kleine Bonte Specht,Dryobates minor,Lesser Spotted Woodpecker,9015784,leswoo1
+159,Boomleeuwerik,Lullula arborea,Woodlark,2490604,woolar1
+160,Oeverzwaluw,Riparia riparia,Sand Martin,2489160,banswa
+161,Waterpieper,Anthus spinoletta,Water Pipit,2490255,watpip1
+162,Oeverpieper,Anthus petrosus,Eurasian Rock Pipit,2490275,rocpip1
+163,Grote Gele Kwikstaart,Motacilla cinerea,Grey Wagtail,2490310,grywag
+164,Witte Kwikstaart,Motacilla alba,White Wagtail,9687165,whiwag
+165,Nachtegaal,Luscinia megarhynchos,Common Nightingale,7660710,comnig1
+166,Blauwborst,Luscinia svecica,Bluethroat,4408732,blueth
+167,Zwarte Roodstaart,Phoenicurus ochruros,Black Redstart,5739315,blared1
+168,Gekraagde Roodstaart,Phoenicurus phoenicurus,Common Redstart,5739317,comred2
+169,Paapje,Saxicola rubetra,Whinchat,2492521,whinch1
+170,Roodborsttapuit,Saxicola rubicola,European Stonechat,4408759,stonec4
+171,Tapuit,Oenanthe oenanthe,Northern Wheatear,5231240,norwhe
+172,Grote Lijster,Turdus viscivorus,Mistle Thrush,2490774,misthr1
+173,Sprinkhaanzanger,Locustella naevia,Common Grasshopper Warbler,2493548,cogwar1
+174,Snor,Locustella luscinioides,Savi's Warbler,2493551,savwar1
+175,Rietzanger,Acrocephalus schoenobaenus,Sedge Warbler,2493129,sedwar1
+176,Grote Karekiet,Acrocephalus arundinaceus,Great Reed Warbler,2493128,grrwar1
+177,Spotvogel,Hippolais icterina,Icterine Warbler,2493220,ictwar1
+178,Braamsluiper,Curruca curruca,Lesser Whitethroat,11034996,leswhi1
+179,Fluiter,Phylloscopus sibilatrix,Wood Warbler,8128385,woowar
+180,Vuurgoudhaan,Regulus ignicapilla,Common Firecrest,6093527,firecr1
+181,Grauwe Vliegenvanger,Muscicapa striata,Spotted Flycatcher,2492576,spofly1
+182,Bonte Vliegenvanger,Ficedula hypoleuca,European Pied Flycatcher,2492606,eupfly1
+183,Baardman,Panurus biarmicus,Bearded Reedling,2493367,bearee1
+184,Staartmees,Aegithalos caudatus,Long-tailed Tit,2495000,lottit1
+185,Glanskop,Poecile palustris,Marsh Tit,2487843,martit2
+186,Matkop,Poecile montanus,Willow Tit,2487866,wiltit1
+187,Kuifmees,Lophophanes cristatus,European Crested Tit,2487883,cretit2
+188,Wielewaal,Oriolus oriolus,Eurasian Golden Oriole,2488949,eugori2
+189,Bonte Kraai,Corvus cornix,Hooded Crow,2482515,hoocro1
+190,Raaf,Corvus corax,Northern Raven,2482492,comrav
+191,Keep,Fringilla montifringilla,Brambling,2494441,brambl
+192,Sijs,Spinus spinus,Eurasian Siskin,6092830,eursis
+193,Grote Barmsijs,Acanthis flammea,Common Redpoll,5231630,comred
+194,Kleine Barmsijs,Acanthis cabaret,Lesser Redpoll,6871058,lesred1
+195,Kruisbek,Loxia curvirostra,Red Crossbill,9629160,redcro
+196,Goudvink,Pyrrhula pyrrhula,Eurasian Bullfinch,2494543,eurbul
+197,Appelvink,Coccothraustes coccothraustes,Hawfinch,2494329,hawfin
+198,Geelgors,Emberiza citrinella,Yellowhammer,2491534,yellow2
+199,Parelduiker,Gavia arctica,Black-throated Loon,2481959,arcloo
+200,Kuifduiker,Podiceps auritus,Horned Grebe,2482059,horgre
+201,Grauwe Pijlstormvogel,Ardenna grisea,Sooty Shearwater,8249990,sooshe
+202,Noordse Pijlstormvogel,Puffinus puffinus,Manx Shearwater,5229380,manshe
+203,Vaal Stormvogeltje,Hydrobates leucorhous,Leach's Storm Petrel,9461262,lcspet
+204,Kuifaalscholver,Phalacrocorax aristotelis,European Shag,10943800,eursha1
+205,Kleine Zilverreiger,Egretta garzetta,Little Egret,2480876,litegr
+206,Zwarte Ooievaar,Ciconia nigra,Black Stork,2481909,blasto1
+207,Heilige Ibis,Threskiornis aethiopicus,African Sacred Ibis,2480764,sacibi1
+208,Chileense Flamingo,Phoenicopterus chilensis,Chilean Flamingo,2481110,chifla1
+209,Zwarte Zwaan,Cygnus atratus,Black Swan,2498344,blkswa
+210,Zwaangans,Anser cygnoides,Swan Goose,2498034,swagoo1
+211,Sneeuwgans,Anser caerulescens,Snow Goose,2498167,snogoo
+212,Roodhalsgans,Branta ruficollis,Red-breasted Goose,5232451,rebgoo1
+213,Casarca,Tadorna ferruginea,Ruddy Shelduck,2498015,rudshe
+214,Carolina-eend,Aix sponsa,Wood Duck,2498387,wooduc
+215,Mandarijneend,Aix galericulata,Mandarin Duck,2498388,manduc
+216,Bahamapijlstaart,Anas bahamensis,White-cheeked Pintail,2498090,whcpin
+217,Krooneend,Netta rufina,Red-crested Pochard,2498180,recpoc
+218,IJseend,Clangula hyemalis,Long-tailed Duck,2498273,lotduc
+219,Rosse Stekelstaart,Oxyura jamaicensis,Ruddy Duck,2498305,rudduc
+220,Zwarte Wouw,Milvus migrans,Black Kite,5229167,blakit1
+221,Rode Wouw,Milvus milvus,Red Kite,5229168,redkit1
+222,Zeearend,Haliaeetus albicilla,White-tailed Eagle,2480449,whteag
+223,Grauwe Kiekendief,Circus pygargus,Montagu's Harrier,2480495,monhar1
+224,Ruigpootbuizerd,Buteo lagopus,Rough-legged Buzzard,2480524,rolhaw
+225,Visarend,Pandion haliaetus,Western Osprey,2480726,osprey
+226,Roodpootvalk,Falco vespertinus,Red-footed Falcon,2481062,reffal1
+227,Kwartel,Coturnix coturnix,Common Quail,2474156,comqua1
+228,Kip,Gallus gallus,Red Junglefowl,9326020,redjun
+229,Porseleinhoen,Porzana porzana,Spotted Crake,2474621,spocra1
+230,Kraanvogel,Grus grus,Common Crane,2474950,comcra
+231,Strandplevier,Charadrius alexandrinus,Kentish Plover,2480311,kenplo1
+232,Morinelplevier,Charadrius morinellus,Eurasian Dotterel,2480281,eurdot
+233,Temmincks Strandloper,Calidris temminckii,Temminck's Stint,2481740,temsti
+234,Paarse Strandloper,Calidris maritima,Purple Sandpiper,2481743,pursan
+235,Bokje,Lymnocryptes minimus,Jack Snipe,2481835,jacsni
+236,Poelruiter,Tringa stagnatilis,Marsh Sandpiper,2481719,marsan
+237,Grauwe Franjepoot,Phalaropus lobatus,Red-necked Phalarope,5739290,renpha
+238,Rosse Franjepoot,Phalaropus fulicarius,Red Phalarope,5229390,redpha1
+239,Middelste Jager,Stercorarius pomarinus,Pomarine Jaeger,2481609,pomjae
+240,Kleinste Jager,Stercorarius longicaudus,Long-tailed Jaeger,2481613,lotjae
+241,Grote Jager,Stercorarius skua,Great Skua,2481618,gresku1
+242,Zwartkopmeeuw,Ichthyaetus melanocephalus,Mediterranean Gull,8151548,medgul1
+243,Geelpootmeeuw,Larus michahellis,Yellow-legged Gull,9413670,yelgul1
+244,Grote Burgemeester,Larus hyperboreus,Glaucous Gull,2481127,glagul
+245,Lachstern,Gelochelidon nilotica,Gull-billed Tern,2481263,gubter1
+246,Reuzenstern,Hydroprogne caspia,Caspian Tern,2481236,caster1
+247,Witvleugelstern,Chlidonias leucopterus,White-winged Tern,2481120,whwter
+248,Alk,Alca torda,Razorbill,8277073,razorb
+249,Kleine Alk,Alle alle,Little Auk,2481299,doveki
+250,Nachtzwaluw,Caprimulgus europaeus,European Nightjar,8109681,eurnig1
+251,Draaihals,Jynx torquilla,Eurasian Wryneck,8012314,eurwry
+252,Middelste Bonte Specht,Dendrocoptes medius,Middle Spotted Woodpecker,8773033,miswoo1
+253,Strandleeuwerik,Eremophila alpestris,Horned Lark,9415596,horlar
+254,Grote Pieper,Anthus richardi,Richard's Pipit,9465111,ricpip1
+255,Duinpieper,Anthus campestris,Tawny Pipit,2490274,tawpip1
+256,Roodkeelpieper,Anthus cervinus,Red-throated Pipit,2490283,retpip
+257,Pestvogel,Bombycilla garrulus,Bohemian Waxwing,2484605,bohwax
+258,Beflijster,Turdus torquatus,Ring Ouzel,7865305,rinouz1
+259,Cetti's Zanger,Cettia cetti,Cetti's Warbler,2493012,cetwar1
+260,Bladkoning,Phylloscopus inornatus,Yellow-browed Warbler,2493095,yebwar3
+261,Buidelmees,Remiz pendulinus,Eurasian Penduline Tit,2487385,euptit1
+262,Grauwe Klauwier,Lanius collurio,Red-backed Shrike,7745240,rebshr1
+263,Klapekster,Lanius excubitor,Great Grey Shrike,9444556,norshr1
+264,Europese Kanarie,Serinus serinus,European Serin,2494200,eurser1
+265,Frater,Linaria flavirostris,Twite,7668711,twite1
+266,Roodmus,Carpodacus erythrinus,Common Rosefinch,2494459,comros
+267,IJsgors,Calcarius lapponicus,Lapland Longspur,2491678,laplon
+268,Sneeuwgors,Plectrophenax nivalis,Snow Bunting,2491719,snobun
+269,Ortolaan,Emberiza hortulana,Ortolan Bunting,2491482,ortbun1
+270,Grauwe Gors,Emberiza calandra,Corn Bunting,7634625,corbun1
+271,Blauwe Pauw,Pavo cristatus,Indian Peafowl,9451184,compea
+272,IJsduiker,Gavia immer,Common Loon,2481962,comloo
+273,Vale Pijlstormvogel,Puffinus mauretanicus,Balearic Shearwater,5229360,balshe1
+274,Stormvogeltje,Hydrobates pelagicus,European Storm Petrel,4408455,bripet
+275,Woudaap,Ixobrychus minutus,Little Bittern,2480850,litbit1
+276,Kwak,Nycticorax nycticorax,Black-crowned Night Heron,2480863,bcnher
+277,Ralreiger,Ardeola ralloides,Squacco Heron,2480906,squher1
+278,Koereiger,Bubulcus ibis,Western Cattle Egret,2480830,categr
+279,Zwarte Ibis,Plegadis falcinellus,Glossy Ibis,2480773,gloibi
+280,Flamingo,Phoenicopterus roseus,Greater Flamingo,4352332,grefla3
+281,Taigarietgans,Anser fabalis,Taiga Bean Goose,2498027,taibeg1
+282,Dwerggans,Anser erythropus,Lesser White-fronted Goose,2498026,lwfgoo
+283,Amerikaanse Smient,Mareca americana,American Wigeon,2498155,amewig
+284,Amerikaanse Wintertaling,Anas carolinensis,Green-winged Teal,2498125,agwtea1
+285,Witoogeend,Aythya nyroca,Ferruginous Duck,2498259,ferduc
+286,Vale Gier,Gyps fulvus,Griffon Vulture,2480389,eurgri1
+287,Slangenarend,Circaetus gallicus,Short-toed Snake Eagle,2480666,shteag1
+288,Steppekiekendief,Circus macrourus,Pallid Harrier,2480491,palhar1
+289,Korhoen,Lyrurus tetrix,Black Grouse,2473682,blagro1
+290,Kleinst Waterhoen,Zapornia pusilla,Baillon's Crake,9299354,baicra1
+291,Kwartelkoning,Crex crex,Corn Crake,4408498,corcra
+292,Steltkluut,Himantopus himantopus,Black-winged Stilt,5229126,bkwsti
+293,Griel,Burhinus oedicnemus,Eurasian Stone-curlew,2482100,eutkne1
+294,Gestreepte Strandloper,Calidris melanotos,Pectoral Sandpiper,2481744,pecsan
+295,Breedbekstrandloper,Calidris falcinellus,Broad-billed Sandpiper,7537888,brbsan
+296,Blonde Ruiter,Calidris subruficollis,Buff-breasted Sandpiper,8292425,bubsan
+297,Terekruiter,Xenus cinereus,Terek Sandpiper,2481703,tersan
+298,Vorkstaartmeeuw,Xema sabini,Sabine's Gull,2481221,sabgul
+299,Kleine Burgemeester,Larus glaucoides,Iceland Gull,2481156,y00478
+300,Witwangstern,Chlidonias hybrida,Whiskered Tern,2481121,whiter2
+301,Zwarte Zeekoet,Cepphus grylle,Black Guillemot,2481312,blkgui
+302,Papegaaiduiker,Fratercula arctica,Atlantic Puffin,2481353,atlpuf
+303,Oehoe,Bubo bubo,Eurasian Eagle-Owl,5959092,eueowl1
+304,Bijeneter,Merops apiaster,European Bee-eater,2475443,eubeat1
+305,Hop,Upupa epops,Eurasian Hoopoe,2498415,hoopoe
+306,Kuifleeuwerik,Galerida cristata,Crested Lark,2490669,crelar2
+307,Roodstuitzwaluw,Cecropis daurica,Red-rumped Swallow,9717283,rerswa1
+308,Siberische Boompieper,Anthus hodgsoni,Olive-backed Pipit,2490244,olbpip
+309,Waterspreeuw,Cinclus cinclus,White-throated Dipper,2495093,whtdip1
+310,Graszanger,Cisticola juncidis,Zitting Cisticola,2492822,zitcis1
+311,Krekelzanger,Locustella fluviatilis,River Warbler,2493549,eurwar2
+312,Waterrietzanger,Acrocephalus paludicola,Aquatic Warbler,2493114,aquwar1
+313,Orpheusspotvogel,Hippolais polyglotta,Melodious Warbler,2493214,melwar1
+314,Sperwergrasmus,Curruca nisoria,Barred Warbler,10983621,barwar1
+315,Grauwe Fitis,Phylloscopus trochiloides,Greenish Warbler,2493084,grewar3
+316,Pallas` Boszanger,Phylloscopus proregulus,Pallas's Leaf Warbler,2493090,palwar5
+317,Kleine Vliegenvanger,Ficedula parva,Red-breasted Flycatcher,2492605,rebfly
+318,Kortsnavelboomkruiper spec.,Certhia familiaris,Eurasian Treecreeper,2487603,eurtre1
+319,Roodkopklauwier,Lanius senator,Woodchat Shrike,2492867,wooshr1
+320,Notenkraker,Nucifraga caryocatactes,Spotted Nutcracker,2482613,eurnut1
+321,Roze Spreeuw,Pastor roseus,Rosy Starling,5845386,rossta2
+322,Witstuitbarmsijs,Acanthis hornemanni,Arctic Redpoll,5231646,hoared
+323,Witbandkruisbek,Loxia leucoptera,Two-barred Crossbill,8144830,whwcro
+324,Grote Kruisbek,Loxia pytyopsittacus,Parrot Crossbill,2494154,parcro2
+325,Dwerggors,Emberiza pusilla,Little Bunting,2491544,litbun

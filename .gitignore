@@ -1,0 +1,9 @@
+BirdNET/
+Perch/
+naturalis-outputs/
+*data/
+dataset/
+nvvm/
+venv/
+*__pycache__/
+tryout
